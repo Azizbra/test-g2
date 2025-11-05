@@ -1,5 +1,5 @@
 steps {
-git url: 'https://github.com/Zayneeb/projetJenkins.git', branch: 'main'
+git url: 'https://github.com/Azizbra/test-g2.git', branch: 'master'
 }
 }
 stage('Étape 1 : Vérification du dépôt') {
